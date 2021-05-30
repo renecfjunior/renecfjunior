@@ -1,4 +1,8 @@
-### Bem vindo ao meu perfil 😎
+## Bem vindo ao meu perfil 😎
+
+### Atualmente estudo programação Back-end em Java e Javascript 📚
+
+### Criei o github com a finalidade de compartilhar projetos ✍
 
 <!--
 **renecfjunior/renecfjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
