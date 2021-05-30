@@ -1,13 +1,16 @@
 ## Bem vindo ao meu perfil. 😎
 
--Atualmente estudo programação Back-end em Java e Javascript. 📚
+Atualmente estudo programação Back-end em Java e Javascript. 📚
 
--Criei o github com a finalidade de compartilhar projetos e aprender mais.✍
+Criei o github com a finalidade de compartilhar projetos e aprender mais.✍
 
--Contatos 📬
+####Contatos 📬
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rene-junior-032845213/)
 
+#### Linguagens 💻👨‍💻
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
 <!--
 **renecfjunior/renecfjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
