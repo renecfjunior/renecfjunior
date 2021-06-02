@@ -1,6 +1,6 @@
 <div align=center >
 
-  ## Bem vindo ao meu perfil. 😎
+  ## Bem vindo ao meu perfil 😎
 
 
 • 📚 Atualmente estudo programação Back-end em Java e Javascript. 
@@ -9,7 +9,7 @@
 
 #### 📬 Contatos 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rene-junior-032845213/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:renecfjunior99@gmail.com)](mailto:renecfjunior99@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rene-junior-032845213/)  <a href="mailto:renecfjunior99@gmail.com"><img src="https://img.shields.io/static/v1?label=&message=E-mail&color=red&style=for-the-badge&logo=gmail"/></a>
 
 
 #### 💻👨‍💻 Linguagens e ferramentas 
