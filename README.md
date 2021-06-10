@@ -21,7 +21,7 @@
 
 #### ⚡ Hobbies
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=&message=@renecfjunior&color=green&logoColor=black&style=for-the-badge&logo=xbox"/>
+<img src="https://img.shields.io/static/v1?label=&message=@renecfjunior&color=green&logoColor=black&style=for-the-badge&logo=xbox"/>  <img src="https://img.shields.io/static/v1?label=&message=renecfjunior&color=gray&logoColor=black&style=for-the-badge&logo=steam"/>  <img src="https://img.shields.io/static/v1?label=&message=@JrRene11&color=blue&logoColor=black&style=for-the-badge&logo=twitter"/>
 </p>
   <div/>
 
