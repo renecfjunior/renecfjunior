@@ -1,9 +1,7 @@
 <div align=center >
 
   ## Bem vindo ao meu perfil 😎
-
-
-• 📚 Atualmente estudo programação Back-end em Java. 
+ 
 
 • ✍ Criei o github com a finalidade de compartilhar projetos e aprender mais.
 
