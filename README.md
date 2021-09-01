@@ -2,7 +2,7 @@
 
   ## Bem vindo ao meu perfil 😎
  
-
+Atualmente desenvolvo alguns projetos autonômos, focando no desenvolvimento Back-end.
 
 
 #### 📬 Contatos 
@@ -17,11 +17,6 @@
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>    
 
-#### ⚡ Hobbies
-<p align="center">
-<img src="https://img.shields.io/static/v1?label=&message=@renecfjunior&color=green&logoColor=black&style=for-the-badge&logo=xbox"/>  <img src="https://img.shields.io/static/v1?label=&message=renecfjunior&color=gray&logoColor=black&style=for-the-badge&logo=steam"/>  <img src="https://img.shields.io/static/v1?label=&message=@JrRene11&color=blue&logoColor=black&style=for-the-badge&logo=twitter"/>
-</p>
-  <div/>
 
 <!--
 **renecfjunior/renecfjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
