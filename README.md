@@ -3,7 +3,7 @@
   ## Bem vindo ao meu perfil 😎
  
 
-• ✍ Criei o github com a finalidade de compartilhar projetos e aprender mais.
+
 
 #### 📬 Contatos 
 <p align="center"> 
