@@ -2,7 +2,7 @@
 
   ## Bem vindo ao meu perfil 😎
  
-Atualmente desenvolvo alguns projetos autonômos, focando no desenvolvimento Back-end e Mobile em Java.
+Atualmente desenvolvo alguns projetos autonômos, focando no desenvolvimento Back-End e Mobile em Java.
 
 
 #### 📬 Contatos 
