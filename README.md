@@ -1,10 +1,22 @@
 <div align=center >
 
   ## Bem vindo ao meu perfil 😎
- 
-Atualmente desenvolvo alguns projetos autonômos, focando no desenvolvimento Back-End e Mobile em Java.
+  
+  <div align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=renecfjunior&show_icons=true&theme=radical"/>
+  </a>
+</div>
 
+  <br>
+  💭 Sobre mim
+  <p align="center">
+    
+ Atualmente desenvolvo alguns projetos autonômos, focando no desenvolvimento Back-End e Mobile em Java.
+  </p>
 
+<br>
+  
 #### 📬 Contatos 
 <p align="center"> 
   
@@ -17,6 +29,11 @@ Atualmente desenvolvo alguns projetos autonômos, focando no desenvolvimento Bac
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=Android&color=9c9fc9&style=for-the-badge&logo=Android"/>
 </p>    
 
+  <div align=center>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renecfjunior&layout=compact&theme=radical"/>
+  </a>
+</div>
 
 <!--
 **renecfjunior/renecfjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
