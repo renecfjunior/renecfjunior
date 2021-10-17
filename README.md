@@ -12,7 +12,7 @@
   💭 Sobre mim
   <p>
     
- Atualmente desenvolvo alguns projetos autonômos, focando no desenvolvimento Back-End e Mobile em Java. <br>
+ Atualmente desenvolvo alguns projetos autonômos, focando no desenvolvimento em Java. <br>
  Esse perfil foi criado com o proposito de ser um portfólio e compartilhar conhecimento.
   </p>
 
