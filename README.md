@@ -10,9 +10,10 @@
 
   <br>
   💭 Sobre mim
-  <p align="center">
+  <p>
     
- Atualmente desenvolvo alguns projetos autonômos, focando no desenvolvimento Back-End e Mobile em Java.
+ Atualmente desenvolvo alguns projetos autonômos, focando no desenvolvimento Back-End e Mobile em Java. <br>
+ Esse perfil foi criado com o proposito de ser um portfólio e compartilhar conhecimento.
   </p>
 
 <br>
@@ -26,7 +27,7 @@
 
 #### 💻👨‍💻 Linguagens e ferramentas 
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=Android&color=9c9fc9&style=for-the-badge&logo=Android"/> <img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=Css3"/>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>   <img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/static/v1?label=&message=CSS&color=blue&style=for-the-badge&logo=Css3"/>
  <img src="https://img.shields.io/static/v1?label=&message=Html&color=orange&style=for-the-badge&logo=Html5"/> <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow&style=for-the-badge&logo=JavaScript"/>
 </p>    
 
@@ -52,3 +53,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+<!--   <img src="https://img.shields.io/static/v1?label=&message=Android&color=9c9fc9&style=for-the-badge&logo=Android"/>  -->
