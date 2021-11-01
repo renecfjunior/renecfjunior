@@ -33,7 +33,7 @@
 
   <div align=center>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renecfjunio&layout=compact&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renecfjunior&layout=compact&theme=radical"/>
   </a>
 </div>
 
