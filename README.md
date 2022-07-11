@@ -13,7 +13,7 @@
   <p>
     
  Atualmente desenvolvo alguns projetos autonômos, focando no desenvolvimento em Java. <br>
- Esse perfil foi criado com o proposito de ser um portfólio e compartilhar conhecimento.
+ Esse perfil foi criado com o proposito de ser um portfólio de projetos.
   </p>
 
 <br>
