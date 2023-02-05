@@ -12,8 +12,8 @@
   💭 Sobre mim
   <p>
     
- Atualmente desenvolvo alguns projetos autonômos, focando no desenvolvimento em Java. <br>
- Esse perfil foi criado com o proposito de ser um portfólio de projetos.
+ Atualmente atuo como QA Analyst e desenvolvo alguns projetos autonômos, focando no desenvolvimento em Java. <br>
+ Esse perfil foi criado com o proposito de adquirir mais conhecimento.
   </p>
 
 <br>
